@@ -26,5 +26,5 @@ Running, drawing, painting
 
 ### 📫 How to reach me
 
-[My Family Blog](https://eichefam.net)
+[My Family Blog](https://eichefam.net)  
 [LinkedIn](https://www.linkedin.com/in/paul-eiche/)
